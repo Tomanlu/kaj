@@ -3,4 +3,5 @@ V rámci semestrální práce jsem vytvořil nástroj pro tvorbu prezentací v p
 * JQuery https://jquery.com
 * Bootstrap https://getbootstrap.com
 * QuillJS https://quilljs.com
+
 Nástroj umožňuje přidávání, mazání jednotlivých snímků. Přesouvání snímků na určité pozice pomocí drag and drop metody. Úprava textu snímku pomocí textového editoru a výběr pozadí snímku - barva nebo obrázek. Po spuštění prezentace se přechází mezi jednotlivými snímky pomocí kláves doprava a doleva.
